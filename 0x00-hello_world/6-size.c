@@ -1,9 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - Entry point
  *
- * Return 0 successful
+ * Description: This program does something
+ * @parameter: Describe the parameter
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
