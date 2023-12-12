@@ -3,7 +3,6 @@
 
 /**
  * main - Programing
- *
  * Return: Always 0 (Success)
  */
 

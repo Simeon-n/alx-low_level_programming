@@ -13,6 +13,8 @@
 
 	int _isdigit(int c);
 
+	int main(void);
+
 	int _strlen(char *s);
 
 	void _puts(char *s);
